@@ -1,0 +1,18 @@
+img{
+    height: 150px;
+    width: 300px;
+}
+
+#controls{
+    background-color: yellow;
+    border: 3px dashed green;
+    margin: 25px;
+    padding: 25px;
+}
+
+#inference-button {
+    background-color: yellow;
+    border: 3px dashed green;
+    margin: 25px;
+    padding: 25px;
+}
